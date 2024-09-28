@@ -6,10 +6,11 @@
 
 ## Features
 
-+ [x] 支持360°实时全景视频播放，播放，暂停，停止基本按钮控件
++ [x] 支持360°实时全景视频播放，暂停，停止基本按钮控件
 + [x] 支持全景播放时鼠标拖曳，滚轮缩放视角
 + [x] 支持编辑插入，删除关键帧
 + [x] 支持进度条拖曳播放进度
++ [x] 支持导出1080P mp4视频文件 
 
 ## Requirements
 
@@ -18,9 +19,9 @@ MathWorks Products (<https://www.mathworks.com>)
 + MATLAB R2023b or later
 + Computer Vision Toolbox™
 + Image Processing Toolbox™
-+ Symbolic Math Toolbox™ (optional,only "doc/mathTransformation.mlx" require)
++ Symbolic Math Toolbox™ (optional,only [doc/mathTransformation.mlx](doc/mathTransformation.mlx) require)
 
-## Know Issues
+## Known Issues
 
 1. 当相邻的两个关键帧一个为鱼眼，另一个是透视或者小行星时候，不支持旋转，播放画面会异常
 1. 播放/暂停按钮有时不灵敏
