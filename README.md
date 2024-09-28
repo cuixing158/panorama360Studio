@@ -32,5 +32,5 @@ MathWorks Products (<https://www.mathworks.com>)
 ## References
 
 1. [Changes in camera viewpoint parameters cannot be constrained within the axial coordinate area?](https://ww2.mathworks.cn/matlabcentral/answers/2152210-changes-in-camera-viewpoint-parameters-cannot-be-constrained-within-the-axial-coordinate-area)
-
 1. [Create an App to Play and Visualize Audio Files](https://www.mathworks.com/help/audio/ug/create-an-app-to-play-and-visualize-audio-files.html)
+1. [Axes Camera Properties for viewing Panorama Images in MATLAB](https://blogs.mathworks.com/matlab/2023/08/16/axes-camera-properties-for-viewing-panorama-images-in-matlab/?from=cn)
