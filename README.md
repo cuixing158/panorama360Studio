@@ -2,7 +2,7 @@
 
 ![panoramaStudio](images/output.gif)
 
-导入[equirectangular类型](https://en.wikipedia.org/wiki/Equirectangular_projection)全景视频，用户在不同时间戳上选择不同视角(perspective透视，crystal水晶球，littleplanet小行星)，自动插值生成预览特效视频，可导出mp4文件。
+导入[equirectangular类型](https://en.wikipedia.org/wiki/Equirectangular_projection)全景视频，用户在不同时间戳上选择不同视角(perspective透视，crystal水晶球，littleplanet小行星)，自动插值生成预览特效视频，可导出mp4文件。更多操作演示视频请下载[360panoramaVideo.zip](https://github.com/cuixing158/panorama360Studio/releases/download/v1.0.0/360panoramaVideo.zip)教程学习！
 
 ## Features
 
