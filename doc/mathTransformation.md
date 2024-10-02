@@ -9,6 +9,8 @@ author:崔星星
 
 date:2024.9.24
 
+https://ww2.mathworks.cn/matlabcentral/fileexchange/173310-360
+
 # OverView
 
 本示例展示了360°全景图像在单位球面的纹理渲染平滑过渡算法，重点阐述了球体内外相机位置、方向发生突变的情况下，依旧能保证渲染图像可以平滑过渡转换，视觉上不会引起画面突变切换障碍。球体内外过渡在3种典型模式("fisheye","perspective","stereo")下主要表现为下图中的4种箭头转换关系，详细给出了算法原理和代码实践！
