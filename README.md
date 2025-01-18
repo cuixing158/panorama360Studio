@@ -7,6 +7,10 @@
 
 导入[equirectangular类型](https://en.wikipedia.org/wiki/Equirectangular_projection)全景视频，用户在不同时间戳上选择不同视角(perspective透视，crystal水晶球，littleplanet小行星)，自动插值生成预览特效视频，可导出mp4文件。更多操作演示视频请下载[360panoramaVideo.zip](https://github.com/cuixing158/panorama360Studio/releases/download/v1.0.0/360panoramaVideo.zip)教程学习！
 
+> [!TIP]
+> 1. 欲了解其算法底层运作机理，给出了其中部分数学变换原理——请参阅[“360°全景球内外图像顺滑过渡算法”](./doc/mathTransformation.md)文档。
+> 2. C++部分实现请参阅我的[360-Panorama-Viewer-OpenGL](https://github.com/cuixing158/360-Panorama-Viewer-OpenGL) repo.
+
 ## Features
 
 + [x] 支持360°实时全景视频播放，暂停，停止基本按钮控件
