@@ -11,7 +11,7 @@
 > 1. 欲了解其算法底层运作机理，给出了其中部分数学变换原理——请参阅[“360°全景球内外图像顺滑过渡算法”](./doc/mathTransformation.md)文档。
 > 2. C++部分实现请参阅我的[360-Panorama-Viewer-OpenGL](https://github.com/cuixing158/360-Panorama-Viewer-OpenGL) repo.
 
-## Features
+## :fire: Features
 
 + [x] 支持360°实时全景视频播放，暂停，停止基本按钮控件
 + [x] 支持全景播放时鼠标拖曳，滚轮缩放视角
